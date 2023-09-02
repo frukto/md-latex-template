@@ -1,0 +1,29 @@
+documentclass: article
+fontsize: 12pt
+linestretch: 1.2
+geometry:
+    - a4paper
+    - inner=22.5mm
+    - outer=22.5mm
+    - top=21.21mm
+    - bottom=42.42mm
+babel-lang: english
+babel-otherlangs:
+    - german
+biblio-style: apa
+
+title: 'The road to insanity'
+subtitle: A complete guide to the laws of the universe
+author:
+  - Kermit, Frog of the Year
+date: January 1st, 1970
+institute: ETH Zürich
+
+
+title-meta: PDF title
+author-meta: PDF author
+lang: PDF language
+subject: PDF subject
+keywords:
+    - keyword 1
+    - keyword 2

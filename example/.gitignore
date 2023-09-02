@@ -1,0 +1,10 @@
+**/.~lock*
+**/*.swp
+**/*converted-to.pdf
+**/*autosave.ipe
+**/.ztr-directory
+latex/aux/*
+latex/src/main.tex
+latex/src/titlepage*.pdf
+latex/main.pdf
+latex/titlepage*.pdf
